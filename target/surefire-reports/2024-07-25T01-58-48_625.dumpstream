@@ -1,5 +1,0 @@
-# Created at 2024-07-25T01:58:49.375
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Users\User\Documents\OCTAVO SEMESTRE\BASES DE DATOS NO ESTRUCTURADAS\CoolGlasses_prueba\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
